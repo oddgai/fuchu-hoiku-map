@@ -7,7 +7,6 @@
 #   all-features: false
 #   with-sources: false
 
--e file:.
 altair==5.3.0
     # via streamlit
 asttokens==2.4.1
