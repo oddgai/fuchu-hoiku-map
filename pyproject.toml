@@ -1,0 +1,30 @@
+[project]
+name = "fuchu-hoiku-map"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "oddgai", email = "koukiogai@gmail.com" }
+]
+dependencies = [
+    "ipykernel>=6.29.4",
+    "requests>=2.32.2",
+    "pandas>=2.2.2",
+    "nbformat>=5.10.4",
+    "streamlit_folium>=0.20.0",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/fuchu_hoiku_map"]
