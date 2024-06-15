@@ -6,10 +6,7 @@ authors = [
     { name = "oddgai", email = "koukiogai@gmail.com" }
 ]
 dependencies = [
-    "ipykernel>=6.29.4",
-    "requests>=2.32.2",
     "pandas>=2.2.2",
-    "nbformat>=5.10.4",
     "streamlit_folium>=0.20.0",
 ]
 readme = "README.md"
