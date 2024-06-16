@@ -4,6 +4,8 @@
 
 [アプリはこちら](https://fuchu-hoiku-map-37wp3gnp6a-an.a.run.app/)
 
+<img src="https://github.com/oddgai/fuchu-hoiku-map/assets/45445604/0eed4f9d-122b-4e87-9b22-7a7451051240" width="400px">
+
 ## 参照できるデータ
 
 - 令和5,6年度の最低指数・指数分布
