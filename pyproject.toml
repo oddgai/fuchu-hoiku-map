@@ -3,7 +3,7 @@ name = "fuchu-hoiku-map"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "oddgai", email = "koukiogai@gmail.com" }
+    { name = "oddgai", email = "" }
 ]
 dependencies = [
     "pandas>=2.2.2",
